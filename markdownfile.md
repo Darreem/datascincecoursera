@@ -7,4 +7,4 @@ output: pdf_document
 
 ## This is a Markdown file
 
-Thank you for checking my markdown file
+Thank you for checking my markdown file :)
