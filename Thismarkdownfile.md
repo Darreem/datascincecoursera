@@ -1,10 +1,10 @@
 ---
-title: 'This is a markdownfile'
+title: 'This is a markdown file'
 author: "DavidAban"
 date: "1 November 2020"
 output: html_document
 ---
 
 
-## This is a markdownfile
+## This is a markdown file
 
